@@ -22,7 +22,7 @@ Hey! I'm an 17yo, 11th-grade student with a passion for coding and a commitment 
 
 - 🧑‍🚒 Active member of the fire brigade
 - 🌱 Currently enhancing my C++ skills
-- 💻 Passionate about using C++, Python, and Lazarus.
+- 💻 Passionate about using C++ and Python
 
 <!-- ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) -->
 

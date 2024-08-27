@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=HaltingColt522&color=brightgreen)
 
 ## 🚀 About Me
-Hey! I'm an 17yo, 11th-grade student with a passion for coding and a commitment to public service through fire defense.
+Hey! I'm an 17yo, 12th-grade student with a passion for coding and a commitment to public service through fire defense.
 
 - 🧑‍🚒 Active member of the fire brigade
 - 🌱 Currently enhancing my C++ skills

@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 Hey! I'm an 17yo, 12th-grade student with a passion for coding and a commitment to public service through fire defense.
 
 - 🧑‍🚒 Active member of the fire brigade
-- 🌱 Currently enhancing my C++ skills
-- 💻 Passionate about using C++ and Python
+- 🌱 Currently enhancing my C/C++ skills
+- 💻 Passionate about using C/C++ and Python
 
 <!-- ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) -->
 

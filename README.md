@@ -37,8 +37,8 @@ Hey! I'm an 17yo, 12th-grade student with a passion for coding and a commitment 
 
 ## 🔥 Current Projects
 Check out some of my projects:
-### [🔺 PhysicsEngine](https://github.com/HaltingColt522/PhysicsEngine)
-Working with my friend [Til](https://github.com/tilschaller), we're crafting a physics engine. At its core is a simple colored triangle, setting the stage for future expansions.
+### [🔺 OortschDB](https://github.com/HaltingColt522/OortschDB)
+Working with my friend [Til](https://github.com/tilschaller), we where working on a small database for a school-project. It contains a library for Pascal written in C. UI is done with Lazarus
 
 ### [📊 Taschenrechner](https://github.com/HaltingColt522/Taschenrechner)
 A simple calculator built in Pascal, my first major project for computer science. This project helped me understand the basics of GUI development and the Pascal programming language.

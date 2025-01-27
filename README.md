@@ -21,19 +21,9 @@ Here are some ideas to get you started:
 Hey! I'm an 17yo, 12th-grade student with a passion for coding and a commitment to public service through fire defense.
 
 - 🧑‍🚒 Active member of the fire brigade
-- 🌱 Currently enhancing my C/C++ skills
-- 💻 Passionate about using C/C++ and Python
+- 💻 Passionate about using C and C++. Sometimes also Python and Pascal.
 
 <!-- ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) -->
-
-## 🛠️ Technologies & Tools
-### Programming languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Lazarus](https://img.shields.io/badge/-Lazarus-008080?style=flat&logo=lazarus&logoColor=white)
-### Editors
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 ## 🔥 Current Projects
 Check out some of my projects:
@@ -51,13 +41,8 @@ A Python-based shopping list application that allows users to manage their groce
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaltingColt522&layout=compact&theme=chartreuse-dark&hide_border=true)
 
-## ⚡ Fun Facts:
-- I'm a proud redhead! 
-- When I'm not coding, I love exploring new technologies and challenges.
-
 ## 📫 How to Reach Me
 - **GitHub:** [HaltingColt522](https://github.com/HaltingColt522)
-
 ---
 
 Thanks for stopping by! Feel free to check out my repositories and leave a star if you find them interesting.
